@@ -1,6 +1,6 @@
 <img src="assets/profile-banner.svg" alt="Abdelrahman Elbaz — Applied AI, NLP and Automation" width="100%">
 
-I have a background in mechatronics engineering and applied AI. My interests include NLP evaluation, model robustness, and practical applications of language models.
+I have a background in mechatronics engineering and applied AI. My interests span NLP, Explainable AI, and automation, with a focus on understanding how AI systems make decisions and building useful applications.
 
 [LinkedIn](https://www.linkedin.com/in/a-elbaz/) · [Thesis](https://github.com/AbdulrahmanAlbaz/ai-text-detection-thesis)
 
