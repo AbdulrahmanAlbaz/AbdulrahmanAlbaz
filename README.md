@@ -1,21 +1,26 @@
-# Abdelrahman Elbaz
+<img src="assets/profile-banner.svg" alt="Abdelrahman Elbaz — Applied AI, NLP and Automation" width="100%">
 
-**Applied AI · NLP · Automation**
+I have a background in mechatronics engineering and applied AI. My interests include NLP evaluation, model robustness, and practical applications of language models.
 
-I have a background in mechatronics engineering and an M.Eng. in Applied AI for Digital Production Management from Deggendorf Institute of Technology, Campus Cham.
+[LinkedIn](https://www.linkedin.com/in/a-elbaz/) · [Thesis](https://github.com/AbdulrahmanAlbaz/ai-text-detection-thesis)
 
-My master's thesis examined how adversarial changes to text affect a RoBERTa-based AI-text detector. I am interested in NLP evaluation, model robustness, and the trade-offs between different types of prediction errors. I also build small tools and workflows using language models.
+## Research
 
-## Selected work
+**[Adversarial robustness in AI text detection](https://github.com/AbdulrahmanAlbaz/ai-text-detection-thesis)** — Master's thesis
 
-| Project | Focus |
-| --- | --- |
-| [Adversarial robustness in AI text detection](https://github.com/AbdulrahmanAlbaz/ai-text-detection-thesis) | Master's thesis on hardening a RoBERTa detector on RAID, with analysis of false positives, false negatives, and attack-specific failures. Report and results are available. |
-| [AutoFlow](https://github.com/AbdulrahmanAlbaz/autoflow-ai-agent) | Python CLI for generating scripts from task descriptions, with a mode that decomposes tasks into separate scripts. |
-| [AI News Automation — بالعربي](https://github.com/AbdulrahmanAlbaz/ai-news-automation) | n8n workflow that scores AI-news RSS excerpts, prepares Egyptian Arabic post drafts, and saves selected drafts to Google Sheets. |
+I studied how adversarial text changes affect a RoBERTa-based detector on RAID, comparing hardening strategies through false-positive rates, false-negative rates, and attack-specific failures. The repository contains the report, results tables, and a visualization of the trade-offs.
 
-## Tools used in these projects
+## Projects
 
-Python · PyTorch · Hugging Face Transformers · OpenAI API · n8n · OpenRouter
+- **[AutoFlow](https://github.com/AbdulrahmanAlbaz/autoflow-ai-agent)** — A Python CLI for generating scripts from task descriptions and decomposing tasks into separate scripts.
+- **[AI News Automation — بالعربي](https://github.com/AbdulrahmanAlbaz/ai-news-automation)** — An n8n workflow that scores AI-news RSS excerpts, prepares Egyptian Arabic post drafts, and saves selected drafts to Google Sheets.
 
-[LinkedIn](https://www.linkedin.com/in/a-elbaz/)
+## Education
+
+- **M.Eng., Applied AI for Digital Production Management** — Deggendorf Institute of Technology, Campus Cham. Thesis dated 2026.
+- **B.Sc., Mechatronics Engineering** — Faculty of Engineering, Mansoura University, 2018.
+
+## Tools used in my work
+
+**NLP & ML:** PyTorch · Hugging Face Transformers  
+**Programming & workflows:** Python · n8n · OpenAI API · OpenRouter
