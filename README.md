@@ -17,8 +17,8 @@ I studied how adversarial text changes affect a RoBERTa-based detector on RAID, 
 
 ## Education
 
-- **M.Eng., Applied AI for Digital Production Management** — Deggendorf Institute of Technology, Campus Cham, 2026.
-- **B.Sc., Mechatronics Engineering** — Faculty of Engineering, Mansoura University, 2018.
+- **M.Eng., Applied AI for Digital Production Management** — Deggendorf Institute of Technology, Germany, 2026.
+- **B.Sc., Mechatronics Engineering** — Faculty of Engineering, Mansoura University, Egypt, 2018.
 
 ## Tools used in my work
 
